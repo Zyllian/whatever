@@ -1,0 +1,14 @@
+name = "Inventory Management"
+filename = "inventorymanagement-1.1.0+1.19.3.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/F7wXag4i/versions/WAiOItc4/inventorymanagement-1.1.0%2B1.19.3.jar"
+hash-format = "sha512"
+hash = "c106f178fd69059a1ae798913f46ba110fe9515ea2f3f8898fe58421f8fa9c5d7ade52d0f998ac2e31ff32ceace21f52c751190d7bf462c253e422f77eaf43a3"
+
+[update]
+[update.modrinth]
+mod-id = "F7wXag4i"
+version = "WAiOItc4"

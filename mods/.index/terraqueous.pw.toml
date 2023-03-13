@@ -1,0 +1,14 @@
+name = "Terraqueous"
+filename = "terraqueous-fabric-1.19-1.1.3.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/RQoWk9iS/versions/7l0eU43o/terraqueous-fabric-1.19-1.1.3.jar"
+hash-format = "sha512"
+hash = "ed3892127e04c23de20d38dd86e244b84f0b86c8e526732b6cf1629530acc10063c4e10bfc77baa809262bc470dbfa992a23c251f5b0c87a8e3a36b3d1b88ec9"
+
+[update]
+[update.modrinth]
+mod-id = "RQoWk9iS"
+version = "7l0eU43o"

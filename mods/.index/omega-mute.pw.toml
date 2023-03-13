@@ -1,0 +1,14 @@
+name = "Omega Mute"
+filename = "omegamute-1.19.3-3.0.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/2ots5RF5/versions/QpiA7MMm/omegamute-1.19.3-3.0.jar"
+hash-format = "sha512"
+hash = "08221d8807cf79e13b1c12b81a0428ec2ee5a03ef2bc068077dddc8b8c6ec147c4d347e8eb721326d0105f619a705f257f7eebd3dc6df9dedd2d36fbf9fc127b"
+
+[update]
+[update.modrinth]
+mod-id = "2ots5RF5"
+version = "QpiA7MMm"

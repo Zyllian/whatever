@@ -1,0 +1,14 @@
+name = "Dye All The Things"
+filename = "DyeAllTheThings-1.3.0-1.19.3.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/YyXC2IpG/versions/NociH4KG/DyeAllTheThings-1.3.0-1.19.3.jar"
+hash-format = "sha512"
+hash = "5f148f3973ce84a25a0723023af05cd8833d1f107243dc52576c1f3ac6b6739b99fe51b511c0ca9361a4b714b6ff1fa17fadcff31a03e942e2cc6725477c2ce0"
+
+[update]
+[update.modrinth]
+mod-id = "YyXC2IpG"
+version = "NociH4KG"

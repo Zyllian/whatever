@@ -1,0 +1,14 @@
+name = "Damage Incorporated"
+filename = "damage_incorporated-3.0.0+1.19.3.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/9Ey6omWt/versions/zkYLNExg/damage_incorporated-3.0.0%2B1.19.3.jar"
+hash-format = "sha512"
+hash = "92627ea5829580f0f347babb5aa935f5ec3d2af07e22594eaa1a4144d240552090790c9f52b77fab21b2b1986f737087a5b360522cb3dc731ebfa9f35892a782"
+
+[update]
+[update.modrinth]
+mod-id = "9Ey6omWt"
+version = "zkYLNExg"

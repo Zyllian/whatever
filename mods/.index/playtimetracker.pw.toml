@@ -1,0 +1,14 @@
+name = "Playtime Tracker"
+filename = "playtimetracker-2022.0807.1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/hiwqofoo/versions/7uDfIySu/playtimetracker-2022.0807.1.jar"
+hash-format = "sha512"
+hash = "de8846315192e1452ba703de641e59d16a7f1563de87c623d0f11e8188f98e89515fc76d3b2a5d19fadb37d1da5444e0c1250436c6826e4f63be2915cd44c00a"
+
+[update]
+[update.modrinth]
+mod-id = "hiwqofoo"
+version = "7uDfIySu"

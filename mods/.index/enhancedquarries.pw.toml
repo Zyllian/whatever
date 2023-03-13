@@ -1,0 +1,14 @@
+name = "Enhanced Quarries (Fabric)"
+filename = "EnhancedQuarries-1.19.3-1.2.9.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "a973f8fa848f52871dd99c3a7ee67342e93d0d65"
+
+[update]
+[update.curseforge]
+file-id = 4153634
+project-id = 528338
